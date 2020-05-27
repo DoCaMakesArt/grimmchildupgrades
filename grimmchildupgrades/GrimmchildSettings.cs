@@ -26,9 +26,9 @@ namespace GrimmchildUpgrades
             maxBallMoveSpeed = 1.5f;
             maxBallSize = 2.0f;
 
-            maxDamage = 35;
-            notchesCost = 6;
-            maxSoulAdd = 33;
+            maxDamage = 1000;
+            notchesCost = 2;
+            maxSoulAdd = 200;
 
             volumeMultiplier = 0.6f;
 
